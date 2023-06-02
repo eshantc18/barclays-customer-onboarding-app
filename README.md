@@ -8,3 +8,5 @@ It is required to build a faster and more secured way of  digitally onboard and 
 To create seamless experience to the customer to complete the digital onboarding process online using mobile application. 
 To securely perform digital verification and identification of the customer during onboarding process.
 
+## Customer Onboard App Demo
+https://github.com/eshantc18/barclays-customer-onboarding-app/assets/112557234/0ebc61ae-c7ad-4b95-a4ac-390fb46937c7
