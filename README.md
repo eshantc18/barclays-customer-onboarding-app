@@ -7,3 +7,4 @@ It is required to build a faster and more secured way of  digitally onboard and 
 ## Required outcome
 To create seamless experience to the customer to complete the digital onboarding process online using mobile application. 
 To securely perform digital verification and identification of the customer during onboarding process.
+
