@@ -10,7 +10,3 @@ To securely perform digital verification and identification of the customer duri
 
 ## Customer Onboard App Demo
 https://github.com/eshantc18/barclays-customer-onboarding-app/assets/112557234/0ebc61ae-c7ad-4b95-a4ac-390fb46937c7
-
-## Customer Onboard App Screenshots
-![1](https://github.com/eshantc18/barclays-customer-onboarding-app/assets/112557234/dbe08542-8490-4f49-81e0-ff221465cc1f =300*200)
-![2](https://github.com/eshantc18/barclays-customer-onboarding-app/assets/112557234/97aa784d-9908-4397-b258-31411826276a =300*200)
