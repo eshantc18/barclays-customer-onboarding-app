@@ -1,0 +1,17 @@
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/icudtl.dat
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/flutter_windows.dll
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/account.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/address_proof.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/bank.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/barclays_logo.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/barclays_white.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/choose_password.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/congratulations.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/identity_doc.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/assets/verification.png
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+F:/Flutter_dev/customer_onboard/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

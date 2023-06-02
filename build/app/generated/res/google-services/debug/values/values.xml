@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">2119481677-79ria3qcfj58eoedst8kcdkfedl51jna.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">2119481677</string>
+    <string name="google_api_key" translatable="false">AIzaSyDwjDSH90YvFfwkyXCvhtaP5XoO8jAiLCg</string>
+    <string name="google_app_id" translatable="false">1:2119481677:android:4339d38faa4d2d2e201f04</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDwjDSH90YvFfwkyXCvhtaP5XoO8jAiLCg</string>
+    <string name="google_storage_bucket" translatable="false">onboaring-app.appspot.com</string>
+    <string name="project_id" translatable="false">onboaring-app</string>
+</resources>

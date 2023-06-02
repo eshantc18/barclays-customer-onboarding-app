@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2119481677",
+    "project_id": "onboaring-app",
+    "storage_bucket": "onboaring-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2119481677:android:4339d38faa4d2d2e201f04",
+        "android_client_info": {
+          "package_name": "com.example.customer_onboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2119481677-79ria3qcfj58eoedst8kcdkfedl51jna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwjDSH90YvFfwkyXCvhtaP5XoO8jAiLCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2119481677-79ria3qcfj58eoedst8kcdkfedl51jna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
